@@ -73,7 +73,7 @@ module.exports = [{
 ![](https://cdn.jsdelivr.net/gh/wes-lin/Cloud189Checkin/image/local.png)
 
 ### 推送
-修改serverChan.js 或者添加环境变量-SENDKEY
+修改serverChan.js 或者添加环境变量SENDKEY
 
 执行命令
 ``` bash
